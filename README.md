@@ -20,9 +20,7 @@ I'm a **3rd-year B.Tech student in Computer Science & Engineering** at the Insti
 - 🎓 B.Tech, Computer Science & Engineering (3rd Year) at **IET Ayodhya**
 - 🛠 Independently built and deployed **3 SaaS projects** spanning AI, payments, and full-stack development
 - 🧠 Currently learning **Machine Learning and AI**
-- 🤝 Organiser at **Pragyan – Coding Club**, hosting hackathons and coding events
 - 📈 Interested in finance and forex markets
-- 💼 **Open to Software Development Internship opportunities**
 ---
  
 ## 🛠 Tech Stack
@@ -70,14 +68,6 @@ I'm a **3rd-year B.Tech student in Computer Science & Engineering** at the Insti
  
 > All SaaS projects are deployed live. Check each repo for the live demo link.
  
----
- 
-## 📈 GitHub Stats
- 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vineet6389kg&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet6389kg&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 ---
  
 ## 🎯 Currently
