@@ -6,7 +6,7 @@
   <a href="mailto:vineetkumar9336a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/vineet6389kg/vineet6389kg/blob/main/Vineet-Resume.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white" /></a>
 </p>
-I'm a **3rd-year B.Tech Computer Science & Engineering student** at IET Ayodhya. I build and deploy AI-powered SaaS apps with the MERN stack, and I'm currently learning Machine Learning and AI.
+I'm a <b>3rd-year B.Tech Computer Science and Engineering student</b> at IET Ayodhya. I build and deploy AI-powered SaaS apps with the MERN stack, and I'm currently learning Machine Learning and AI.
  
 💼 **Open to Software Development Internship opportunities**
  
